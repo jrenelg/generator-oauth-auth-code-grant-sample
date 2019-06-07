@@ -1,6 +1,6 @@
 {
-  "name": "generator-oauth-auth-code-grant-sample",
-  "version": "0.1.6",
+  "name": "generator-oauth-auth-code-grant-sample-jrenelg",
+  "version": "0.1.7",
   "description": "Generator for OAuth authorization code grant type using Apigee",
   "files": [
     "app",
@@ -25,12 +25,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dzuluaga/oauth-auth-code-grant-sample.git"
+    "url": "git+https://github.com/jrenelg/generator-oauth-auth-code-grant-sample.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dzuluaga/oauth-auth-code-grant-sample/issues"
+    "url": "https://github.com/jrenelg/generator-oauth-auth-code-grant-sample/issues"
   },
-  "homepage": "https://github.com/dzuluaga/oauth-auth-code-grant-sample#readme"
+  "homepage": "https://github.com/jrenelg/generator-oauth-auth-code-grant-sample#readme"
 }
